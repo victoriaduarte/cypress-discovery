@@ -1,0 +1,11 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Acceptance Testing Project of BugerEats app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Victória Duarte",
+  "license": "MIT"
+}
